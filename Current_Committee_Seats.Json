@@ -1,14 +1,26 @@
 [
-{
-"Committee":"ועדת החוץ והביטחון",
-"Subject":"רידוד כוחות הגמ\"ר באיו\"ש",
-"DateTime":"2025-11-06T10:00:00.000Z",
-"BroadcastURL":"https://main.knesset.gov.il/Activity/committees/ForeignAffairs/Pages/CommitteeTVarchive.aspx?TopicID=31661",
-"BackgroundMaterialOfficial":null,
-"ExtraMaterial":"https://main.knesset.gov.il/Activity/Committees/ForeignAffairs/Pages/default.aspx, https://www.idf.il/en/articles/, https://www.gov.il/en/departments/units/cogat, https://www.gov.il/en/departments/units/civil_administration, https://www.gov.il/en/departments/units/land_crossings_authority, https://www.gov.il/en/departments/general/king_hussein_bridge_general, https://www.gov.il/en/departments/general/seam_zone_permit_regime, https://www.shabak.gov.il/publications/Pages/default.aspx, https://www.ochaopt.org/weekly-protection-of-civilians-report, https://www.inss.org.il/topic/west-bank/, https://www.boi.org.il/en/NewsAndPublications/Pages/Default.aspx, https://www.gov.il/he/departments/units/ifi_economist_publications, https://www.cbs.gov.il/en/publications/Pages/default.aspx, https://main.knesset.gov.il/Activity/Info/MMM/Pages/default.aspx",
-"Importance":"הדיון עשוי להשפיע ישירות על פעילות עסקית ביהודה ושומרון ובצירי התובלה הארציים: הפחתת נוכחות ביטחונית עלולה לפגוע בביטחון הצירים והמשלוחים, להאריך זמני הובלה ולהעלות עלויות אבטחה וביטוח; יתכנו פגיעות ברציפות התפעולית של מפעלים ואזורי תעשייה (למשל ברקן, מישור אדומים, אזור אריאל), וכן השפעות על זמינות עובדים וספקים פלסטינים עקב שינויי היתרים וזמני מחסומים; ייתכנו השלכות על סחר חוץ דרך מעברי הגבול (כגון גשר אלנבי) ועל לוחות זמנים ליצוא/יבוא. מומלץ לנציגי הלשכה לבקש הבהרות לגבי תוכנית הרידוד, אמצעי שמירה על רציפות עסקית ושעות פעילות מעברים, מנגנוני תיאום לוגיסטי (ליווי/עדיפויות לצירים חיוניים), והשתתפות המדינה בעלויות אבטחה לעסקים חיוניים.",
-"id":1,
-"createdAt":"2025-11-06T11:13:44.830Z",
-"updatedAt":"2025-11-06T11:13:44.830Z"
-}
+    {
+        "Committee": "ועדת החוץ והביטחון",
+        "Subject": "התמודדות מערכת הביטחון עם תופעת השב\"חים",
+        "DateTime": "2025-11-06T08:00:00.000Z",
+        "BroadcastURL": "https://main.knesset.gov.il/",
+        "BackgroundMaterialOfficial": null,
+        "ExtraMaterial": "https://israel.iom.int/, https://www.iom.int/, https://www.ilo.org/global/topics/labour-migration/lang--en/index.htm, https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues, https://hotline.org.il/en/, https://kavlaoved.org.il/, https://www.taubcenter.org.il/, https://www.boi.org.il/en/, https://www.gov.il/en/departments/ministry_of_economy, https://main.knesset.gov.il/EN/Pages/default.aspx, https://www.oecd.org/migration/, https://www.gov.il/en/departments/population-and-immigration-authority/",
+        "Importance": "נושא השוהים הבלתי חוקיים (שב\"חים) משפיע ישירות על שוק העבודה בישראל ובתעשיות התלויות בעובדים זרים כגון חקלאות, בנייה, אירוח ותעשייה קלה. החלטות לגבי הסדרה/הרחקה, אכיפה על מעסיקים, מתן היתרי עבודה וזמני מעבר ישפיעו על זמינות כוח אדם, עלויות שכר, ציות רגולטורי וקנסות לפירמות. ללשכת המסחר חשיבות בייצוג אינטרסים של עסקים מול מקבלי ההחלטות כדי לקדם פתרונות מאוזנים — מעבר להסדרה מסודרת של כוח עבודה, מנגנוני בדיקה מפוקחים, הליכי מעבר חלקים ותקופת מעבר שמפחיתה שיבוש בפעילות העסקית. מומלץ לעקוב אחר הדיון, לבקש materiaal רקע ולנסח עמדות מדיניות שמאזנות בין אכיפה למענה לצורכי המשק.",
+        "id": 1,
+        "createdAt": "2025-11-06T07:09:42.397Z",
+        "updatedAt": "2025-11-06T07:17:06.947Z"
+    },
+    {
+        "Committee": "ועדת החוץ והביטחון",
+        "Subject": "רידוד כוחות הגמ\"ר באיו\"ש",
+        "DateTime": "2025-11-06T10:00:00.000Z",
+        "BroadcastURL": "https://main.knesset.gov.il/",
+        "BackgroundMaterialOfficial": null,
+        "ExtraMaterial": "https://www.gov.il/en/Departments/units/cogat , https://www.idf.il/en , https://www.worldbank.org/en/country/westbankandgaza/overview , https://www.ochaopt.org/theme/movement-and-access , https://www.ochaopt.org , https://www.pcbs.gov.ps , https://www.paltrade.org , https://www.inss.org.il , https://www.taubcenter.org.il , https://www.gov.il/en/departments/ministry_of_economy_and_industry , https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Conflict-Affected+Fragile+Situations , https://www.iso.org/iso-22301-business-continuity.html , https://www.ilo.org/beirut/countries-covered/west-bank-and-gaza/lang--en/index.htm , https://unctad.org/topic/least-developed-countries/occupied-palestinian-territory",
+        "Importance": "שינויים בכוח הקיים באיו\"ש (רידוד/שינוי פריסות כוחות) עלולים להשפיע על יציבות הביטחונית, על תנועת סחורות ועובדים, על גישה לכבישים ולמעברי גבול ועל תנאי הביטוח והתפעול של חברות הפועלות באזור ובישראל בכלל. לכך השפעה ישירה על שרשראות אספקה, על עסקים העובדים עם שווקים או ספקים בשטחים, ועל כניסת עובדים פלסטינים למקומות עבודה בישראל. ללשכת המסחר עניין בלהבטיח שאי־שינוי פריסות לא יגרום לשיבושים כלכליים משמעותיים — על ידי דרישה לתיאום בין גורמי ביטחון וכלכלה, תוכניות המשכיות עסקית לחברים ולפיתוח הצעות לפעולות מקלות (למשל הקלות לוגיסטיות, הסדרי מעבר עובדים, ביטוחים מותאמים). מומלץ לבקש עדכונים רשמיים והערכת סיכונים כלכלית וליידע החברים בנוהלי תגובה.",
+        "id": 2,
+        "createdAt": "2025-11-06T07:10:46.975Z",
+        "updatedAt": "2025-11-06T07:17:06.960Z"
+    }
 ]
